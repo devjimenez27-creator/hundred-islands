@@ -27,7 +27,7 @@ The website provides information about the destination through a responsive and 
 
 ## Live Website
 
-GitHub Pages URL: [Add your live website URL here after Step 10]
+GitHub Pages URL: https://devjimenez27-creator.github.io/hundred-islands/
 
 ## Repository
 

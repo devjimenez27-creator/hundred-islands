@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hundred Islands Tourism Website
 
-## Getting Started
+**Student Name:** Cecilio Jr. Q. Jimenez
+**Selected Framework:** Next.js
 
-First, run the development server:
+## Project Description
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The Hundred Islands Tourism Website is a tourism web application designed to showcase the natural beauty, attractions, and travel information of Hundred Islands in Pangasinan, Philippines.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The website provides information about the destination through a responsive and mobile-friendly interface.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Technologies Used
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Next.js
+- React
+- HTML
+- CSS
+- JavaScript
 
-## Learn More
+## Main Sections
 
-To learn more about Next.js, take a look at the following resources:
+- Home
+- About
+- Attractions
+- Gallery
+- Location
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Live Website
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+GitHub Pages URL: [Add your live website URL here after Step 10]
 
-## Deploy on Vercel
+## Repository
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+GitHub Repository: https://github.com/devjimenez27-creator/hundred-islands
